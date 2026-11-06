@@ -1,0 +1,410 @@
+[
+  {
+    "id": 101,
+    "name": "Muhammadzoxir Abdusattarov",
+    "grade": 10,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "56",
+      "reading": "54",
+      "writing": "52",
+      "speaking": "61"
+    },
+    "year": 2024,
+    "date": "11.03.2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "24BBA1141177AM",
+    "imagePath": "/assets/aistudio/image_3702dd0d.png",
+    "teacher": "Ms. Dilnoza Rahimova",
+    "isNew": true
+  },
+  {
+    "id": 102,
+    "name": "Zarnigor Rustamjonova",
+    "grade": 11,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "60",
+      "reading": "49",
+      "writing": "50",
+      "speaking": "51"
+    },
+    "year": 2024,
+    "date": "20.06.2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "24BBA1219483RZ",
+    "imagePath": "/assets/aistudio/image_9856351e.png",
+    "teacher": "Mr. John Miller",
+    "isNew": true
+  },
+  {
+    "id": 103,
+    "name": "Dinara Boborahmatova",
+    "grade": 11,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "62",
+      "reading": "62",
+      "writing": "61",
+      "speaking": "49"
+    },
+    "year": 2024,
+    "date": "11.03.2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "24BBA1141879BD",
+    "imagePath": "/assets/aistudio/image_7143507e.png",
+    "teacher": "Ms. Malika Azizova",
+    "isNew": true
+  },
+  {
+    "id": 104,
+    "name": "Azamat Turdialiyev",
+    "grade": 9,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "68",
+      "reading": "56",
+      "writing": "47",
+      "speaking": "43"
+    },
+    "year": 2024,
+    "date": "02.10.2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "26BBA1880194TA",
+    "imagePath": "/assets/aistudio/image_4440ff14.png",
+    "teacher": "Mr. Alisher Saidov",
+    "isNew": true
+  },
+  {
+    "id": 105,
+    "name": "Ozodbek Ziyadullayev",
+    "grade": 10,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "60",
+      "reading": "51",
+      "writing": "45",
+      "speaking": "46"
+    },
+    "year": 2024,
+    "date": "02.10.2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "26BBA1889063ZO",
+    "imagePath": "/assets/aistudio/image_ddf99ba4.png",
+    "teacher": "Dr. Rustam Karimov",
+    "isNew": true
+  },
+  {
+    "id": 16,
+    "name": "asad begimov",
+    "grade": 10,
+    "type": "CEFR",
+    "score": "C1",
+    "subScores": {
+      "listening": "68",
+      "reading": "70",
+      "writing": "65",
+      "speaking": "71"
+    },
+    "year": 2026,
+    "date": "Fevral, 2026",
+    "consent": true,
+    "featured": true,
+    "certNumber": "SS-2026-16",
+    "fileName": "asad_begimov_cefr.jpg",
+    "teacher": "Mr. Alisher Saidov",
+    "isNew": true
+  },
+  {
+    "id": 1,
+    "name": "Aziza Karimova",
+    "grade": 11,
+    "type": "IELTS",
+    "score": "8.0",
+    "subScores": {
+      "listening": "8.5",
+      "reading": "8.5",
+      "writing": "7.5",
+      "speaking": "7.5"
+    },
+    "year": 2026,
+    "date": "Yanvar, 2026",
+    "consent": true,
+    "featured": true,
+    "certNumber": "IELTS-26UZ00842AK",
+    "fileName": "aziza_karimova_ielts8.jpg",
+    "teacher": "Mr. John Miller"
+  },
+  {
+    "id": 2,
+    "name": "Jasur Toshmatov",
+    "grade": 10,
+    "type": "IELTS",
+    "score": "7.5",
+    "subScores": {
+      "listening": "8.0",
+      "reading": "8.0",
+      "writing": "7.0",
+      "speaking": "7.0"
+    },
+    "year": 2026,
+    "date": "Fevral, 2026",
+    "consent": true,
+    "featured": true,
+    "certNumber": "IELTS-26UZ00913JT",
+    "fileName": "jasur_toshmatov_ielts75.jpg",
+    "teacher": "Ms. Dilnoza Rahimova"
+  },
+  {
+    "id": 3,
+    "name": "Madina Rahimova",
+    "grade": 9,
+    "type": "CEFR",
+    "score": "C1",
+    "subScores": {
+      "listening": "68",
+      "reading": "71",
+      "writing": "65",
+      "speaking": "72"
+    },
+    "year": 2026,
+    "date": "Fevral, 2026",
+    "consent": true,
+    "featured": true,
+    "certNumber": "CEFR-2026-9041MR",
+    "fileName": "madina_rahimova_cefrc1.jpg",
+    "teacher": "Mr. Alisher Saidov"
+  },
+  {
+    "id": 4,
+    "name": "Sardor Aliyev",
+    "grade": 11,
+    "type": "SAT",
+    "score": "1450",
+    "subScores": {
+      "math": "780",
+      "ebrw": "670"
+    },
+    "year": 2025,
+    "date": "Noyabr, 2025",
+    "consent": true,
+    "featured": true,
+    "certNumber": "SAT-2025-1450SA",
+    "fileName": "sardor_aliyev_sat1450.jpg",
+    "teacher": "Dr. Rustam Karimov"
+  },
+  {
+    "id": 5,
+    "name": "Dilnoza Usmonova",
+    "grade": 8,
+    "type": "Olimpiada",
+    "score": "1",
+    "subject": "Matematika",
+    "level": "viloyat",
+    "year": 2026,
+    "date": "Yanvar, 2026",
+    "consent": false,
+    "featured": true,
+    "certNumber": "OLIMP-2026-MATH01",
+    "fileName": "dilnoza_olimpiada_1urin.jpg",
+    "teacher": "Olimpiada murabbiyi"
+  },
+  {
+    "id": 6,
+    "name": "Bekzod Ergashev",
+    "grade": 7,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "58",
+      "reading": "62",
+      "writing": "55",
+      "speaking": "60"
+    },
+    "year": 2026,
+    "date": "Yanvar, 2026",
+    "consent": true,
+    "featured": false,
+    "certNumber": "CEFR-2026-8812BE",
+    "fileName": "bekzod_ergashev_cefrb2.jpg",
+    "teacher": "Ms. Dilnoza Rahimova"
+  },
+  {
+    "id": 7,
+    "name": "Kamola Yusupova",
+    "grade": 10,
+    "type": "IELTS",
+    "score": "7.0",
+    "subScores": {
+      "listening": "7.5",
+      "reading": "7.0",
+      "writing": "6.5",
+      "speaking": "7.0"
+    },
+    "year": 2025,
+    "date": "Dekabr, 2025",
+    "consent": true,
+    "featured": true,
+    "certNumber": "IELTS-25UZ00774KY",
+    "fileName": "kamola_yusupova_ielts7.jpg",
+    "teacher": "Mr. John Miller"
+  },
+  {
+    "id": 8,
+    "name": "Otabek Nazarov",
+    "grade": 9,
+    "type": "Olimpiada",
+    "score": "2",
+    "subject": "Ingliz tili",
+    "level": "shahar",
+    "year": 2025,
+    "date": "Oktyabr, 2025",
+    "consent": true,
+    "featured": false,
+    "certNumber": "OLIMP-2025-ENG02",
+    "fileName": "otabek_olimpiada_eng.jpg",
+    "teacher": "Ms. Malika Azizova"
+  },
+  {
+    "id": 9,
+    "name": "Nilufar Saidova",
+    "grade": 11,
+    "type": "SAT",
+    "score": "1380",
+    "subScores": {
+      "math": "740",
+      "ebrw": "640"
+    },
+    "year": 2026,
+    "date": "Fevral, 2026",
+    "consent": true,
+    "featured": true,
+    "certNumber": "SAT-2026-1380NS",
+    "fileName": "nilufar_saidova_sat1380.jpg",
+    "teacher": "Dr. Rustam Karimov"
+  },
+  {
+    "id": 10,
+    "name": "Shohruh Qodirov",
+    "grade": 10,
+    "type": "IELTS",
+    "score": "6.5",
+    "subScores": {
+      "listening": "7.0",
+      "reading": "6.5",
+      "writing": "6.0",
+      "speaking": "6.5"
+    },
+    "year": 2024,
+    "date": "Noyabr, 2024",
+    "consent": false,
+    "featured": false,
+    "certNumber": "IELTS-24UZ00551SQ",
+    "fileName": "shohruh_qodirov_ielts65.jpg",
+    "teacher": "Mr. Alisher Saidov"
+  },
+  {
+    "id": 11,
+    "name": "Malika Abdullayeva",
+    "grade": 8,
+    "type": "CEFR",
+    "score": "B2",
+    "subScores": {
+      "listening": "56",
+      "reading": "59",
+      "writing": "54",
+      "speaking": "58"
+    },
+    "year": 2025,
+    "date": "Sentyabr, 2025",
+    "consent": true,
+    "featured": false,
+    "certNumber": "CEFR-2025-7721MA",
+    "fileName": "malika_cefr_b2.jpg",
+    "teacher": "Ms. Dilnoza Rahimova"
+  },
+  {
+    "id": 12,
+    "name": "Jamshid Murodov",
+    "grade": 11,
+    "type": "IELTS",
+    "score": "7.5",
+    "subScores": {
+      "listening": "8.0",
+      "reading": "8.0",
+      "writing": "7.0",
+      "speaking": "7.0"
+    },
+    "year": 2024,
+    "date": "Avgust, 2024",
+    "consent": true,
+    "featured": true,
+    "certNumber": "IELTS-24UZ00412JM",
+    "fileName": "jamshid_murodov_ielts75.jpg",
+    "teacher": "Mr. John Miller"
+  },
+  {
+    "id": 13,
+    "name": "Zarina Holmatova",
+    "grade": 9,
+    "type": "Olimpiada",
+    "score": "1",
+    "subject": "Kimyo",
+    "level": "tuman",
+    "year": 2024,
+    "date": "Dekabr, 2024",
+    "consent": true,
+    "featured": false,
+    "certNumber": "OLIMP-2024-CHEM01",
+    "fileName": "zarina_olimpiada_chem.jpg",
+    "teacher": "Ustoz Nodira Karimova"
+  },
+  {
+    "id": 14,
+    "name": "Akmal Rustamov",
+    "grade": 11,
+    "type": "SAT",
+    "score": "1290",
+    "subScores": {
+      "math": "690",
+      "ebrw": "600"
+    },
+    "year": 2024,
+    "date": "Oktyabr, 2024",
+    "consent": true,
+    "featured": false,
+    "certNumber": "SAT-2024-1290AR",
+    "fileName": "akmal_rustamov_sat1290.jpg",
+    "teacher": "Dr. Rustam Karimov"
+  },
+  {
+    "id": 15,
+    "name": "Sevara Ismoilova",
+    "grade": 10,
+    "type": "CEFR",
+    "score": "C1",
+    "subScores": {
+      "listening": "66",
+      "reading": "68",
+      "writing": "62",
+      "speaking": "70"
+    },
+    "year": 2023,
+    "date": "Dekabr, 2023",
+    "consent": true,
+    "featured": false,
+    "certNumber": "CEFR-2023-5590SI",
+    "fileName": "sevara_cefr_c1.jpg",
+    "teacher": "Mr. Alisher Saidov"
+  }
+]

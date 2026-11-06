@@ -1,0 +1,72 @@
+[
+  {
+    "id": "APP-2026-007",
+    "parentName": "Javlonbek",
+    "studentName": "Temur",
+    "phone": "+998901234567",
+    "grade": "6",
+    "notes": "Robototexnika togaragi",
+    "createdAt": "05/11/2026, 06:07",
+    "status": "yangi"
+  },
+  {
+    "id": "APP-2026-006",
+    "parentName": "Anvar Jorayev",
+    "studentName": "Suhrob Jorayev",
+    "phone": "+998935554433",
+    "grade": "8",
+    "notes": "Dasturlash va ingliz tili",
+    "createdAt": "04/11/2026, 20:25",
+    "status": "yangi"
+  },
+  {
+    "id": "APP-2026-005",
+    "parentName": "Farhod Rasulov",
+    "studentName": "Sardor Rasulov",
+    "phone": "+998901112233",
+    "grade": "10",
+    "notes": "CEFR va IELTS kurslari qiziqtiradi",
+    "createdAt": "04/11/2026, 20:18",
+    "status": "yangi"
+  },
+  {
+    "id": "APP-2026-004",
+    "parentName": "alimov aydin",
+    "studentName": "salim",
+    "phone": "+998 9299545",
+    "grade": "10",
+    "notes": "gdf",
+    "createdAt": "04/11/2026, 20:15",
+    "status": "qabul_qilindi"
+  },
+  {
+    "id": "APP-2026-003",
+    "parentName": "Otabek Shokirov",
+    "studentName": "Jasur Shokirov",
+    "phone": "+998901234567",
+    "grade": "9",
+    "notes": "Matematika togaraklariga qiziqadi",
+    "createdAt": "04/11/2026, 19:52",
+    "status": "qabul_qilindi"
+  },
+  {
+    "id": "APP-2026-001",
+    "parentName": "Javohir Saidov",
+    "studentName": "Bobur Saidov",
+    "phone": "+998 90 765 43 21",
+    "grade": "9",
+    "notes": "Ingliz tili darajasi B1, matematika chuqurlashtirilgan guruhga yozilmoqchi",
+    "createdAt": "04.11.2026, 10:15",
+    "status": "boglanildi"
+  },
+  {
+    "id": "APP-2026-002",
+    "parentName": "Shahnoza Alimova",
+    "studentName": "Madina Alimova",
+    "phone": "+998 93 111 22 33",
+    "grade": "6",
+    "notes": "Maktab formasi va transport qatnovi haqida ma'lumot kerak",
+    "createdAt": "03.11.2026, 16:40",
+    "status": "yangi"
+  }
+]
